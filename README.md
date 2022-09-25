@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+skills: 
+VHDL
+python, C, java, dart, R
+html,css
+flutter
+mysql,oracle
 -->
