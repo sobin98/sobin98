@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi~ I'm sobin!! 👋 I'm interesed in AI engineering & MLOps engineering.
+
+## About me
+- (주)RexSoft (intern 2021.06 ~ 2021.12)
+  - Server programming, Data Processing (skills: bash shell script, python, R)
+- Hanyang University ERICA (graduated in 2022)
+  - major: Department of Computer Science & Engineering
+  - double major: Department of Applied Mathematics
+- Naver AI Boostcamp (2022.09 ~ 2023.02)
+
+## Tech Stacks
+
+VHDL
+python, C, java, dart, R
+html,css,flutter
+mysql,oracle,shell
+
+## Github Stats
+
+## contact
+velog, gmail
+
 
 <!--
 **sobin98/sobin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,18 +33,29 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Hanyang ERICA
-software, math
+- ⚡ Fun fact: ...ㅁ
 
-skills: 
-HW: VHDL
-Programming Language: python, C, java, dart, R
-Front: html,css,flutter
-Back: mysql,oracle,bash shell script
+Hi~ I'm sobin!! 👋 I'm interesed in AI engineering & MLOps engineering.
+
+## About me
+- (주)RexSoft (intern 2021.06 ~ 2021.12)
+  - Server programming, Data Processing (skills: bash shell script, python, R)
+- Hanyang University ERICA (graduated in 2022)
+  - major: Department of Computer Science & Engineering
+  - double major: Department of Applied Mathematics
+- Naver AI Boostcamp (2022.09 ~ 2023.02)
+
+## Tech Stacks
+
+VHDL
+python, C, java, dart, R
+html,css,flutter
+mysql,oracle,shell
+
+## Github Stats
+
+## contact
+velog, gmail
 
 
-
-
-경력: bash shell script,python
 -->
