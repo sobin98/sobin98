@@ -1,24 +1,4 @@
-### Hi~ I'm sobin!! 👋 I'm interesed in AI engineering & MLOps engineering.
 
-## About me
-- (주)RexSoft (intern 2021.06 ~ 2021.12)
-  - Server programming, Data Processing (skills: bash shell script, python, R)
-- Hanyang University ERICA (graduated in 2022)
-  - major: Department of Computer Science & Engineering
-  - double major: Department of Applied Mathematics
-- Naver AI Boostcamp (2022.09 ~ 2023.02)
-
-## Tech Stacks
-
-VHDL
-python, C, java, dart, R
-html,css,flutter
-mysql,oracle,shell
-
-## Github Stats
-
-## contact
-velog, gmail
 
 
 <!--
