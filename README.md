@@ -13,11 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Hanyang ERICA
+software, math
 
 skills: 
-VHDL
-python, C, java, dart, R
-html,css
-flutter
-mysql,oracle
+HW: VHDL
+Programming Language: python, C, java, dart, R
+Front: html,css,flutter
+Back: mysql,oracle,bash shell script
+
+
+
+
+경력: bash shell script,python
 -->
