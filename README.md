@@ -16,7 +16,8 @@ python, C, java, dart, R
 html,css,flutter
 mysql,oracle,shell
 
-## Github Stats
+## contact
+gmail: sobing98@gmail.com
 
 
 
